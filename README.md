@@ -26,5 +26,5 @@ This repository contains my machine learning solutions for predicting patient pr
 ## 📜 Acknowledgments
 
 - Course: Introduction to Statistics and Machine Learning (II) – NTHU
-- Instructor: Prof.Jeng-Lin L
+- Instructor: Prof.Jeng-Lin Li
 - Libraries Used: numpy, pandas, scikit-learn, xgboost
