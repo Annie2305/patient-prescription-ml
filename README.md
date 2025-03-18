@@ -1,5 +1,4 @@
-# patient-prescription-ml
-Lecture project for Introduction to Statistics and Machine Learning (II), implementing Naïve Bayes &amp; Tree-based models.
+# Patient-prescription-ml
 
 This repository contains my machine learning solutions for predicting patient prescriptions using Bayesian models and tree-based classifiers. It includes a custom implementation of Naïve Bayes, Decision Trees, Random Forests, and Gradient Boosting.
 
@@ -25,8 +24,8 @@ This repository contains my machine learning solutions for predicting patient pr
 📂 data/ 
 ├── patient_treatment.csv # Dataset
 
-📜 Acknowledgments
+## 📜 Acknowledgments
 
-Course: Introduction to Statistics and Machine Learning (II) – NTHU
-Instructor: Prof.Jeng-Lin L
-Libraries Used: numpy, pandas, scikit-learn, xgboost
+- Course: Introduction to Statistics and Machine Learning (II) – NTHU
+- Instructor: Prof.Jeng-Lin L
+- Libraries Used: numpy, pandas, scikit-learn, xgboost
