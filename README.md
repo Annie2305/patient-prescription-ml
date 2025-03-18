@@ -9,20 +9,19 @@ This repository contains my machine learning solutions for predicting patient pr
 - **Hyperparameter Tuning:** Optimized models to improve performance.
 - **Feature Importance & Selection:** Analyzed most influential features in the dataset.
 
-## 📂 Repository Structure
-📂 src/ 
-├── naive_bayes.py # Custom Naïve Bayes implementation 
-├── decision_tree.py # Decision Tree classifier 
-├── random_forest.py # Random Forest classifier 
-├── gradient_boosting.py # Gradient Boosting classifier 
-├── model_tuning.py # Hyperparameter tuning 
-├── feature_selection.py # Feature importance analysis 
+📂 **src/** _(Source code for models)_
+- 📝 `naive_bayes.py` - Custom Naïve Bayes implementation  
+- 📝 `decision_tree.py` - Decision Tree classifier  
+- 📝 `random_forest.py` - Random Forest classifier  
+- 📝 `gradient_boosting.py` - Gradient Boosting classifier  
+- 📝 `model_tuning.py` - Hyperparameter tuning  
+- 📝 `feature_selection.py` - Feature importance analysis  
 
-📂 results/ 
-├── performance_metrics.txt # Model evaluation reports 
+📂 **results/** _(Model evaluation reports)_
+- 📝 `performance_metrics.txt` - Model evaluation results  
 
-📂 data/ 
-├── patient_treatment.csv # Dataset
+📂 **data/** _(Dataset location)_
+- 📝 `patient_treatment.csv` - Dataset 
 
 ## 📜 Acknowledgments
 
