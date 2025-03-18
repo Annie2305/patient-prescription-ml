@@ -18,7 +18,8 @@ This repository contains my machine learning solutions for predicting patient pr
 - 📝 `feature_selection.py` - Feature importance analysis  
 
 📂 **results/** _(Model evaluation reports)_
-- 📝 `performance_metrics.txt` - Model evaluation results  
+- 📝 `performance_metrics.txt` 
+- 📝 `feature_importance_plot.png`
 
 📂 **data/** _(Dataset location)_
 - 📝 `patient_treatment.csv` - Dataset 
